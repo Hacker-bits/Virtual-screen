@@ -1,0 +1,7 @@
+1. First open both the files in the folder 'Virtual pen' 
+2. Run the value finder.py file and adjust the dials such that only that colour/object is visible that you want to be used as a marker 
+3. Note the respective values
+4. Run 'Virtual pen(MAIN).py and adjust the sliders such that the values are same as he values that you have noted earlier
+5. Enjoy and to switch colour just take the marker over the block of colour that you want and same to clear the board.
+HOPE YOU ENJOY !!!
+BY:- HACKER_BITS_
